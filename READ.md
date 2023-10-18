@@ -18,7 +18,7 @@
   <br/> 
 
   
-  <p>Back-end</p>
+  <p>Backend</p>
   <table> 
     <tr> 
       <td align="center">
