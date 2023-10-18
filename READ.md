@@ -7,7 +7,7 @@
       <td align="center">
         <a href="https://github.com/yoon121317" >
         <img src="https://avatars.githubusercontent.com/yoon121317" width="100px" height="100px" /> 
-        <br />YOONYJ121317</a> 
+        <br />yoonyj121317</a> 
         </td> 
     </tr> 
   </table>
