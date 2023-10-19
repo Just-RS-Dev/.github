@@ -32,6 +32,6 @@
   </div>
 
   <br/>
-<img width="1512" alt="스크린샷 2023-10-19 오후 3 21 47" src="https://github.com/jinseung0327/Go_Lambda_Serverless/assets/127307160/19bdc252-b65d-4427-a5a3-6ee2a526711a">
-<img width="1504" alt="스크린샷 2023-10-19 오후 3 21 16" src="https://github.com/jinseung0327/Go_Lambda_Serverless/assets/127307160/85a8b75d-bfe4-4fc4-8509-e0c066da5b4d">
-<img width="1512" alt="스크린샷 2023-10-19 오후 3 22 05" src="https://github.com/jinseung0327/Go_Lambda_Serverless/assets/127307160/834357dc-93ad-4146-9d75-d9cc5b43b9af">
+<img width="1512" alt="스크린샷 2023-10-19 오후 3 21 47" src="https://github.com/jinseung0327/RubyONRails/assets/127307160/19bdc252-b65d-4427-a5a3-6ee2a526711a">
+<img width="1504" alt="스크린샷 2023-10-19 오후 3 21 16" src="https://github.com/jinseung0327/RubyONRails/assets/127307160/85a8b75d-bfe4-4fc4-8509-e0c066da5b4d">
+<img width="1512" alt="스크린샷 2023-10-19 오후 3 22 05" src="https://github.com/jinseung0327/RubyONRails/assets/127307160/834357dc-93ad-4146-9d75-d9cc5b43b9af">
