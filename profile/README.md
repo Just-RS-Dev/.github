@@ -1,14 +1,16 @@
 <br/>
 <br/>
 
-  <b>Frontend</b>
+
   <table> 
     <tr> 
+      <b>Frontend</b>
       <td align="center">
         <a href="https://github.com/yoon121317" >
         <img src="https://avatars.githubusercontent.com/yoon121317" width="100px" height="100px" /> 
         <br />yoonyj121317</a> 
         </td>
+        <p>Backend</p>
         <td align="center">
          <a href="https://github.com/jinseung0327" ><img src="https://avatars.githubusercontent.com/jinseung0327 " width="100px" height="100px" /> <br />jinseung0327 </a>
         </td> 
@@ -24,7 +26,7 @@
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   </div>
   
-  <p>Backend</p>
+
 
 
 
