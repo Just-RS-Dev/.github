@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-  <b>Frontend          </b>
+  <b>Frontend</b>
   <b>Backend</b>
   <table> 
     <tr> 
