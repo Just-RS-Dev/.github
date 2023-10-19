@@ -1,15 +1,16 @@
 <br/>
 <br/>
 
-  <b>Frontend</b>
-  <b>Backend</b>
+
   <table> 
     <tr> 
       <td align="center">
+        <b>Frontend</b>
         <a href="https://github.com/yoon121317" >
         <img src="https://avatars.githubusercontent.com/yoon121317" width="100px" height="100px" /> 
         <br />yoonyj121317</a> 
         </td>
+        <b>Backend</b>
         <td align="center">
          <a href="https://github.com/jinseung0327" ><img src="https://avatars.githubusercontent.com/jinseung0327 " width="100px" height="100px" /> <br />jinseung0327 </a>
         </td> 
